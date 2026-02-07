@@ -11,3 +11,13 @@ calculate averages, and display results.
 
 ## Technology
 - Java
+
+## How to Run
+1. Import project into IDE (Eclipse / IntelliJ)
+2. Configure database using schema.sql
+3. Run Main.java
+
+## Learning Outcome
+- Hands-on Java OOP concepts
+- DAO pattern usage
+- Basic database integration
