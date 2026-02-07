@@ -16,6 +16,7 @@ calculate averages, and display results.
 1. Import project into IDE (Eclipse / IntelliJ)
 2. Configure database using schema.sql
 3. Run Main.java
+4. Note: Execute schema.sql in MySQL before running the application.
 
 ## Learning Outcome
 - Hands-on Java OOP concepts
